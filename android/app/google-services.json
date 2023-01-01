@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "245864746859",
+    "firebase_url": "https://engine-sensors-default-rtdb.firebaseio.com",
+    "project_id": "engine-sensors",
+    "storage_bucket": "engine-sensors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245864746859:android:250f26ca40a5a657c8862e",
+        "android_client_info": {
+          "package_name": "com.example.temp_guage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245864746859-i06nlmacd7q9mftfje564n9u920s27tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGpiyqDcY7jfMkWqkqMnx77fNKq0gyY1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245864746859-i06nlmacd7q9mftfje564n9u920s27tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
